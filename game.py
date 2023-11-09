@@ -5,6 +5,8 @@ import random
 from gamefunc1 import*
 from set import*
 
+#change
+
 class Model():
     def __init__(self, imgname):
 #       self.points
